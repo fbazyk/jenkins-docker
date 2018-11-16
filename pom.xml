@@ -9,6 +9,11 @@
     <version>1.0-SNAPSHOT</version>
 
 
+    <properties>
+        <junit.version>4.12</junit.version>
+        <maven.comper.plugin.version>3.8.0</maven.comper.plugin.version>
+        <java.version>8</java.version>
+    </properties>
 
     <dependencyManagement>
         <dependencies>
